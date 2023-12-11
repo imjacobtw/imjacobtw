@@ -33,7 +33,7 @@
 ### Keep in Contact
 
 <p>
-  If you have any questions about me, feel free to message me on any of my socials below.
+  If you have any questions, feel free to message me on any of my socials below.
   
   <a href="https://linkedin.com/in/imjacobtw" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/%40imjacobtw-%25230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2"></a>
   <a href="https://leetcode.com/imjacobtw/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/%40imjacobtw-%25230077B5.svg?style=for-the-badge&logo=leetcode&logoColor=white&color=ffa116"></a>
