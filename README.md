@@ -1,7 +1,7 @@
 <h1>Hello, I'm Jacob! 👋</h1>
 
 <p>
-  I'm currently a computer science undergraduate at Missouri S&T, and I am a mathematics and computer science tutor at TutorMe. ✏️🖥️
+  I'm currently a computer science undergraduate at Missouri S&T, and a mathematics and computer science tutor at TutorMe. ✏️🖥️
   
   I've been studying computer science and software engineering for over 4 years, because I enjoy solving problems and crafting innovative software applications. With these passions in mind, my academic journey has consisted of implementing elegant algorithms, building robust applications, and effectively communicating on collaborative projects with cross-functional development teams. I am always seeking out opportunities to expand my knowledge and master emerging technologies.
 </p>
