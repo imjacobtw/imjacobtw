@@ -12,16 +12,14 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8%3F?style=flat-square&logo=python&logoColor=white&color=3571a4"/>
   <img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8%3F?style=flat-square&logo=java&logoColor=white&color=f34336"/>
   <img alt="C#" src="https://img.shields.io/badge/-C%23-%23512BD4?style=flat-square&logo=java&logoColor=white&color=7050dd"/>
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&color=1a4673"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8%3F?style=flat-square&logo=react&logoColor=white&color=0d6d8c"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white&color=7050dd"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&color=336691"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
 <br/>
