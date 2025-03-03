@@ -5,7 +5,7 @@ I'm Jacob, a software developer and computer science undergraduate from Missouri
 Seeking new full-stack developer roles and always interested to hear about any cool projects you're working on!
 
 ### 🛠 Currently...
-- Challenging myself with the [100 Days of Code Challenge](https://www.udemy.com/course/100-days-of-code/)
+- Challenging myself with the 365 Days of Code Challenge
 - Tutoring undergraduates in Java and Python
 - Relaxing in my hammock
 
